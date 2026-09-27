@@ -16,8 +16,9 @@
 *   **Heitor De Oliveira Mamede**
 *   **João Gabriel Barreto de Araújo Falcão**
 
-**Disciplina:** Processamento de Linguagem Natural / Engenharia de Inteligência Artificial  
+**Disciplina:** Tendências em Ciência da Computação
 **Projeto:** Triagem Semântica em Ouvidorias Públicas  
+**Auxílio:** Antigravity: (Gemini 3.8 Flash)
 
 ---
 
