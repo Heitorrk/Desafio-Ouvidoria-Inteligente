@@ -1,0 +1,602 @@
+[
+{
+"id": "M001",
+"data": "2023-11-10",
+"categoria_oficial": "infraestrutura",
+"texto": "A rua das Flores tá osso, buraco atrás de buraco, carro passa e quase capota. Ninguém aguenta mais."
+},
+{
+"id": "M002",
+"data": "2023-11-10",
+"categoria_oficial": "saúde",
+"texto": "Posto de saúde do bairro Vila Nova tá abandonado às traças. Fila desde as 4 da manhã e nem médico tem."
+},
+{
+"id": "M003",
+"data": "2023-11-11",
+"categoria_oficial": "segurança",
+"texto": "Muito assalto na praça central, principalmente à noite. Cadê a ronda da guarda municipal?"
+},
+{
+"id": "M004",
+"data": "2023-11-11",
+"categoria_oficial": "educação",
+"texto": "Escola municipal João Paulo II tá sem professor de matemática há dois meses. As crianças tão prejudicadas."
+},
+{
+"id": "M005",
+"data": "2023-11-12",
+"categoria_oficial": "meio ambiente",
+"texto": "Mato alto no terreno da prefeitura na rua dos Ipês, virou criadouro de mosquito e lixo. Uma vergonha."
+},
+{
+"id": "M006",
+"data": "2023-11-12",
+"categoria_oficial": "infraestrutura",
+"texto": "Buraco na rua das Flores é um perigo. Já vi moto cair. Prefeitura precisa tapar isso urgente."
+},
+{
+"id": "M007",
+"data": "2023-11-13",
+"categoria_oficial": "saúde",
+"texto": "Falta remédio para pressão na UBS do centro. Minha mãe tá sem tomar há três dias."
+},
+{
+"id": "M008",
+"data": "2023-11-13",
+"categoria_oficial": "segurança",
+"texto": "Boca de fumo na esquina da rua 7 com a 12, a polícia sabe e não faz nada. Tá osso."
+},
+{
+"id": "M009",
+"data": "2023-11-14",
+"categoria_oficial": "educação",
+"texto": "Creche municipal sem merenda direito, as crianças comem só bolacha. Isso não é educação, é descaso."
+},
+{
+"id": "M010",
+"data": "2023-11-14",
+"categoria_oficial": "meio ambiente",
+"texto": "Rio que corta a cidade tá cheio de esgoto e lixo, peixe morrendo. Cadê a fiscalização?"
+},
+{
+"id": "M011",
+"data": "2023-11-15",
+"categoria_oficial": "infraestrutura",
+"texto": "Rua das Flores, buracos gigantescos. Carro pequeno nem passa. Por favor, resolvam isso!"
+},
+{
+"id": "M012",
+"data": "2023-11-15",
+"categoria_oficial": "saúde",
+"texto": "Atendimento no hospital municipal tá uma vergonha, esperei 6 horas com dor no peito."
+},
+{
+"id": "M013",
+"data": "2023-11-16",
+"categoria_oficial": "segurança",
+"texto": "Roubaram a escola outra vez. Tá osso, ninguém merece. Precisamos de segurança."
+},
+{
+"id": "M014",
+"data": "2023-11-16",
+"categoria_oficial": "educação",
+"texto": "Professor sem salário em dia, como é que dá aula? Educação pública tá abandonada."
+},
+{
+"id": "M015",
+"data": "2023-11-17",
+"categoria_oficial": "meio ambiente",
+"texto": "Queimada no morro toda noite, fumaça insuportável. Meu filho tem asma, tá sofrendo."
+},
+{
+"id": "M016",
+"data": "2023-11-17",
+"categoria_oficial": "infraestrutura",
+"texto": "Calçada da rua das Flores tá toda quebrada, idoso cai toda hora. Um absurdo."
+},
+{
+"id": "M017",
+"data": "2023-11-18",
+"categoria_oficial": "saúde",
+"texto": "Vacina da gripe acabou no posto do bairro. Como assim? Tá osso."
+},
+{
+"id": "M018",
+"data": "2023-11-18",
+"categoria_oficial": "segurança",
+"texto": "Assalto na porta da creche, mães com medo. Prefeitura tem que botar guarda."
+},
+{
+"id": "M019",
+"data": "2023-11-19",
+"categoria_oficial": "educação",
+"texto": "Sala de aula superlotada, 40 alunos por professor. Impossível aprender assim."
+},
+{
+"id": "M020",
+"data": "2023-11-19",
+"categoria_oficial": "meio ambiente",
+"texto": "Lixo acumulado na praça há duas semanas, mau cheiro e ratos. Cadê a coleta?"
+},
+{
+"id": "M021",
+"data": "2023-11-20",
+"categoria_oficial": "infraestrutura",
+"texto": "Iluminação pública da rua das Flores tá péssima, à noite fica tudo escuro, medo de assalto."
+},
+{
+"id": "M022",
+"data": "2023-11-20",
+"categoria_oficial": "saúde",
+"texto": "Marcação de consulta só por aplicativo, idoso não consegue. Humanidade zero."
+},
+{
+"id": "M023",
+"data": "2023-11-21",
+"categoria_oficial": "segurança",
+"texto": "Tiro toda noite na favela do morro. Crianças chorando. Isso não é vida."
+},
+{
+"id": "M024",
+"data": "2023-11-21",
+"categoria_oficial": "educação",
+"texto": "Falta material escolar básico, caderno, lápis. Alunos sem nada pra estudar."
+},
+{
+"id": "M025",
+"data": "2023-11-22",
+"categoria_oficial": "meio ambiente",
+"texto": "Esgoto a céu aberto na rua 5, fedor insuportável. Saúde pública pedindo socorro."
+},
+{
+"id": "M026",
+"data": "2023-11-22",
+"categoria_oficial": "infraestrutura",
+"texto": "Ponte do bairro Industrial tá com rachadura, passa carro pesado e treme tudo. Perigo iminente."
+},
+{
+"id": "M027",
+"data": "2023-11-23",
+"categoria_oficial": "saúde",
+"texto": "Falta médico pediatra no posto, criança doente tem que ir pro hospital central. Longe demais."
+},
+{
+"id": "M028",
+"data": "2023-11-23",
+"categoria_oficial": "segurança",
+"texto": "Praça central virou ponto de drogas, usuários à luz do dia. Precisamos de ação."
+},
+{
+"id": "M029",
+"data": "2023-11-24",
+"categoria_oficial": "educação",
+"texto": "Escola sem energia elétrica há três dias, aulas canceladas. Um descaso com a educação."
+},
+{
+"id": "M030",
+"data": "2023-11-24",
+"categoria_oficial": "meio ambiente",
+"texto": "Cachorro abandonado na rua, zoonose vai aumentar. Cadê o canil municipal?"
+},
+{
+"id": "M031",
+"data": "2023-11-25",
+"categoria_oficial": "infraestrutura",
+"texto": "Rua das Flores tá um lixo, cheia de buraco. Prefeito, olha pra gente!"
+},
+{
+"id": "M032",
+"data": "2023-11-25",
+"categoria_oficial": "saúde",
+"texto": "Exame de sangue demora 3 meses pra sair resultado. Doente não pode esperar."
+},
+{
+"id": "M033",
+"data": "2023-11-26",
+"categoria_oficial": "segurança",
+"texto": "Câmeras de segurança da praça não funcionam há meses. Ninguém viu nada."
+},
+{
+"id": "M034",
+"data": "2023-11-26",
+"categoria_oficial": "educação",
+"texto": "Merenda escolar estragada, crianças passando mal. Isso é crime!"
+},
+{
+"id": "M035",
+"data": "2023-11-27",
+"categoria_oficial": "meio ambiente",
+"texto": "Poluição do rio matando peixes, pescadores sem sustento. Tristeza."
+},
+{
+"id": "M036",
+"data": "2023-11-27",
+"categoria_oficial": "infraestrutura",
+"texto": "Bueiro entupido na rua das Flores, alaga tudo quando chove. Prejuízo pros comerciantes."
+},
+{
+"id": "M037",
+"data": "2023-11-28",
+"categoria_oficial": "saúde",
+"texto": "Falta oxigênio no hospital, paciente transferido às pressas. Inaceitável."
+},
+{
+"id": "M038",
+"data": "2023-11-28",
+"categoria_oficial": "segurança",
+"texto": "Assaltaram o mercado do bairro de novo. Comerciante fechando as portas."
+},
+{
+"id": "M039",
+"data": "2023-11-29",
+"categoria_oficial": "educação",
+"texto": "Professores temporários sem contrato, aulas paradas. Alunos prejudicados."
+},
+{
+"id": "M040",
+"data": "2023-11-29",
+"categoria_oficial": "meio ambiente",
+"texto": "Terreno baldio na rua das Flores cheio de entulho e mato. Dengue vai aumentar."
+},
+{
+"id": "M041",
+"data": "2023-11-30",
+"categoria_oficial": "infraestrutura",
+"texto": "Rua das Flores, buracos na pista. Já reclamei e nada. Tá osso!"
+},
+{
+"id": "M042",
+"data": "2023-11-30",
+"categoria_oficial": "saúde",
+"texto": "UBS sem ar-condicionado, sala de espera lotada, calor insuportável."
+},
+{
+"id": "M043",
+"data": "2023-12-01",
+"categoria_oficial": "segurança",
+"texto": "Guarda municipal não aparece na praça. Assalto toda hora. Cadê o efetivo?"
+},
+{
+"id": "M044",
+"data": "2023-12-01",
+"categoria_oficial": "educação",
+"texto": "Biblioteca escolar sem livros novos há anos. Alunos desmotivados."
+},
+{
+"id": "M045",
+"data": "2023-12-02",
+"categoria_oficial": "meio ambiente",
+"texto": "Coleta seletiva não passa no bairro. Reciclagem só no discurso."
+},
+{
+"id": "M046",
+"data": "2023-12-02",
+"categoria_oficial": "infraestrutura",
+"texto": "Semáforo da rua das Flores quebrado há semanas, trânsito caótico."
+},
+{
+"id": "M047",
+"data": "2023-12-03",
+"categoria_oficial": "saúde",
+"texto": "Falta oftalmologista na rede pública. Fila de espera de 2 anos."
+},
+{
+"id": "M048",
+"data": "2023-12-03",
+"categoria_oficial": "segurança",
+"texto": "Ronda escolar não existe. Mães com medo de deixar filhos na escola."
+},
+{
+"id": "M049",
+"data": "2023-12-04",
+"categoria_oficial": "educação",
+"texto": "Escola sem internet, professores não conseguem passar conteúdo digital."
+},
+{
+"id": "M050",
+"data": "2023-12-04",
+"categoria_oficial": "meio ambiente",
+"texto": "Poda de árvore não é feita, galhos caindo em cima dos carros."
+},
+{
+"id": "M051",
+"data": "2023-12-05",
+"categoria_oficial": "infraestrutura",
+"texto": "A rua das Flores está completamente esburacada. Carros danificados, motociclistas caindo. A prefeitura precisa agir com urgência, pois a situação já dura meses e nada foi feito. Moradores estão revoltados, comerciantes prejudicados, e o risco de acidentes graves é iminente. Já fizemos abaixo-assinado, reclamação no 156, e nada. É um verdadeiro abandono. Precisamos de recapeamento asfáltico ou pelo menos tapa-buracos emergencial. Não dá mais para esperar. A população paga impostos caros e não tem retorno. Isso é um desrespeito com o cidadão. Por favor, tomem providências antes que alguém morra."
+},
+{
+"id": "M052",
+"data": "2023-12-05",
+"categoria_oficial": "saúde",
+"texto": "O posto de saúde do bairro Vila Nova está um caos. Fila desde as 4 da manhã, falta de médicos, remédios básicos em falta, equipamentos quebrados. Minha mãe diabética precisa de insulina e não tem. Tive que comprar na farmácia particular, um absurdo de caro. O atendimento é desumano, as pessoas passam mal na fila. O gestor municipal precisa visitar urgentemente essa unidade. Não é possível que a saúde pública esteja tão abandonada. A comunidade está doente, idosos morrendo por falta de atendimento. Isso é uma vergonha nacional. Exijo providências imediatas: contratação de médicos, reposição de medicamentos, reforma do prédio. Chega de descaso!"
+},
+{
+"id": "M053",
+"data": "2023-12-06",
+"categoria_oficial": "segurança",
+"texto": "A criminalidade tomou conta do nosso bairro. Assaltos a mão armada todos os dias, tráfico de drogas na praça, tiroteios à noite. As crianças não podem brincar na rua, os idosos têm medo de sair. A guarda municipal não aparece, a polícia militar demora horas para atender ocorrências. Já solicitamos rondas escolares, câmeras de segurança, iluminação, mas nada foi feito. O comércio está fechando, as famílias vendendo suas casas e indo embora. Estamos abandonados. Precisamos de um plano emergencial de segurança: mais efetivo, viaturas, iluminação, câmeras, programas sociais para jovens. Não aguentamos mais viver com medo. A prefeitura precisa assumir sua responsabilidade. Segurança é direito básico e está sendo violado diariamente."
+},
+{
+"id": "M054",
+"data": "2023-12-06",
+"categoria_oficial": "educação",
+"texto": "A escola municipal João Paulo II está em situação deplorável. Salas superlotadas, professores sobrecarregados, falta de material didático, merenda de péssima qualidade, prédio com infiltrações e banheiros quebrados. Os alunos não têm condições mínimas de aprendizado. Muitos professores estão adoecendo por estresse. As crianças chegam em casa sem dever de casa porque não tem folha para imprimir. A comunidade escolar está desmotivada. Já fizemos reuniões, abaixo-assinados, mas a secretaria de educação ignora. Exigimos reforma urgente, contratação de professores, merenda adequada, material escolar. Educação é a base do futuro e está sendo destruída. Não podemos aceitar que nossos filhos sejam prejudicados por incompetência administrativa. Por favor, olhem com carinho para nossas crianças!"
+},
+{
+"id": "M055",
+"data": "2023-12-07",
+"categoria_oficial": "meio ambiente",
+"texto": "O rio que corta nossa cidade está morrendo. Esgoto sem tratamento é despejado diariamente, lixo flutuando, peixes mortos, mau cheiro insuportável. As margens estão tomadas por mato e entulho. Crianças brincavam nesse rio, hoje é um esgoto a céu aberto. A prefeitura não fiscaliza, não multa, não limpa. As empresas jogam dejetos ilegalmente e nada acontece. A população sofre com doenças respiratórias e de pele. Precisamos de um projeto sério de despoluição, tratamento de esgoto, fiscalização rigorosa, educação ambiental. O rio é patrimônio natural e está sendo assassinado. Exijo ação imediata do poder público. Não podemos deixar para as próximas gerações um rio morto. Faça alguma coisa, pelo amor de Deus!"
+},
+{
+"id": "M056",
+"data": "2023-12-07",
+"categoria_oficial": "infraestrutura",
+"texto": "A rua das Flores está intransitável. São buracos tão grandes que os carros desviam para a contramão, causando acidentes. Motociclistas já caíram, um senhor idoso fraturou o braço. A iluminação é péssima, à noite ninguém vê os buracos. A calçada está quebrada, cadeirantes não passam. O esgoto entope e transborda. Já protocolamos dezenas de reclamações, nada. A prefeitura alega falta de verba, mas gastam com festas e cargos comissionados. É um descaso com quem paga impostos. Exigimos recapeamento, iluminação de LED, calçadas acessíveis, rede de esgoto decente. Não somos cidadãos de segunda classe. A rua das Flores merece respeito. Se não resolverem, vamos protestar na porta da prefeitura. Chega de tapa-buraco paliativo. Queremos solução definitiva!"
+},
+{
+"id": "M057",
+"data": "2023-12-08",
+"categoria_oficial": "saúde",
+"texto": "Minha experiência no hospital municipal foi traumática. Cheguei com dor abdominal intensa, esperei 8 horas para ser atendida. Quando finalmente fui chamada, o médico mal olhou para mim, receitou um remédio e mandou para casa. Não fizeram exames, não deram diagnóstico preciso. Voltei dois dias depois, já em estado grave, e descobri que era apendicite. Quase morri por negligência. O hospital está superlotado, faltam médicos, enfermeiros, leitos, medicamentos. Os corredores estão cheios de macas. Isso não é saúde pública, é um matadouro. Exijo investigação, contratação de profissionais, mais investimento. A vida humana não tem preço. Não podemos aceitar que pessoas morram na fila. Prefeito, pelo amor de Deus, olhe para a saúde do nosso povo!"
+},
+{
+"id": "M058",
+"data": "2023-12-08",
+"categoria_oficial": "segurança",
+"texto": "A violência no bairro está fora de controle. Toda noite tem tiroteio, assalto, arrombamento. Minha casa foi invadida duas vezes esse mês. A polícia demora horas, quando vem. A guarda municipal não faz ronda. Os pontos de drogas estão a céu aberto, usuários circulam livremente. As escolas estão com medo de abrir à noite. Os comerciantes contratam segurança particular, quem não pode, fecha. Estamos reféns do crime organizado. Exigimos um plano de segurança eficaz: mais policiamento, câmeras, iluminação, programas de prevenção, ocupação de espaços públicos. A prefeitura precisa agir em conjunto com o estado. Não dá mais para viver assim. A sensação de impunidade é total. Queremos paz, queremos segurança. Chega de discurso, queremos ação!"
+},
+{
+"id": "M059",
+"data": "2023-12-09",
+"categoria_oficial": "educação",
+"texto": "Sou professora da rede municipal há 15 anos e nunca vi situação tão precária. Salários atrasados, condições de trabalho indignas, falta de recursos, turmas lotadas, violência escolar. Os alunos não têm interesse porque não veem perspectiva. A merenda é insuficiente e de baixa qualidade. Não temos psicopedagogo, assistente social, coordenador. A secretaria de educação não dá suporte. Estamos adoecendo, pedindo exoneração. A educação pública está sucateada. Exijo valorização do magistério, concurso público, plano de carreira, investimento em infraestrutura, material didático, formação continuada. Os alunos merecem uma escola digna. A comunidade escolar está unida nessa luta. Não vamos desistir. Prefeito, invista em educação, é o único caminho para um futuro melhor. Estamos cansados de promessas vazias."
+},
+{
+"id": "M060",
+"data": "2023-12-09",
+"categoria_oficial": "meio ambiente",
+"texto": "A situação do meio ambiente em nossa cidade é crítica. O ar está poluído por fábricas e veículos, as árvores estão sendo cortadas sem replantio, os rios poluídos, o lixo acumulado nas ruas, a coleta seletiva inexistente. As queimadas são constantes, principalmente no período seco. Crianças e idosos sofrem com problemas respiratórios. A fauna está desaparecendo. Não há educação ambiental nas escolas. A fiscalização é omissa. Precisamos de políticas públicas sérias: arborização urbana, tratamento de esgoto, coleta seletiva, fiscalização de empresas, campanhas educativas, criação de parques e reservas. O planeta está pedindo socorro e a prefeitura finge não ver. Exijo compromisso real com a sustentabilidade. Não podemos sacrificar a natureza em nome do progresso. O futuro da humanidade depende de atitudes agora."
+},
+{
+"id": "M061",
+"data": "2023-12-10",
+"categoria_oficial": "infraestrutura",
+"texto": "Buraco na rua das Flores."
+},
+{
+"id": "M062",
+"data": "2023-12-10",
+"categoria_oficial": "saúde",
+"texto": "Fila enorme no posto, só um médico atendendo."
+},
+{
+"id": "M063",
+"data": "2023-12-11",
+"categoria_oficial": "segurança",
+"texto": "Assalto na praça de novo. Tá osso."
+},
+{
+"id": "M064",
+"data": "2023-12-11",
+"categoria_oficial": "educação",
+"texto": "Escola sem professor de português há um mês."
+},
+{
+"id": "M065",
+"data": "2023-12-12",
+"categoria_oficial": "meio ambiente",
+"texto": "Mato alto no terreno da prefeitura, dengue vai aumentar."
+},
+{
+"id": "M066",
+"data": "2023-12-12",
+"categoria_oficial": "infraestrutura",
+"texto": "Rua das Flores, buracos. Já reclamei, nada."
+},
+{
+"id": "M067",
+"data": "2023-12-13",
+"categoria_oficial": "saúde",
+"texto": "Falta remédio para pressão na UBS."
+},
+{
+"id": "M068",
+"data": "2023-12-13",
+"categoria_oficial": "segurança",
+"texto": "Boca de fumo na esquina, polícia não faz nada."
+},
+{
+"id": "M069",
+"data": "2023-12-14",
+"categoria_oficial": "educação",
+"texto": "Merenda escolar ruim, crianças passando fome."
+},
+{
+"id": "M070",
+"data": "2023-12-14",
+"categoria_oficial": "meio ambiente",
+"texto": "Rio poluído, peixes mortos. Cadê fiscalização?"
+},
+{
+"id": "M071",
+"data": "2023-12-15",
+"categoria_oficial": "infraestrutura",
+"texto": "A rua das Flores está cheia de crateras. Carros desviando, risco de acidente. Socorro!"
+},
+{
+"id": "M072",
+"data": "2023-12-15",
+"categoria_oficial": "saúde",
+"texto": "Esperei 5 horas no hospital com dor. Atendimento péssimo."
+},
+{
+"id": "M073",
+"data": "2023-12-16",
+"categoria_oficial": "segurança",
+"texto": "Roubaram a escola de novo. Ninguém faz nada."
+},
+{
+"id": "M074",
+"data": "2023-12-16",
+"categoria_oficial": "educação",
+"texto": "Professor sem salário, aula parada. Educação abandonada."
+},
+{
+"id": "M075",
+"data": "2023-12-17",
+"categoria_oficial": "meio ambiente",
+"texto": "Queimada no morro, fumaça tóxica. Meu filho asmático."
+},
+{
+"id": "M076",
+"data": "2023-12-17",
+"categoria_oficial": "infraestrutura",
+"texto": "Calçada quebrada na rua das Flores, idoso caiu."
+},
+{
+"id": "M077",
+"data": "2023-12-18",
+"categoria_oficial": "saúde",
+"texto": "Vacina acabou no posto. Como assim?"
+},
+{
+"id": "M078",
+"data": "2023-12-18",
+"categoria_oficial": "segurança",
+"texto": "Assalto na porta da creche. Mães apavoradas."
+},
+{
+"id": "M079",
+"data": "2023-12-19",
+"categoria_oficial": "educação",
+"texto": "Sala lotada, 40 alunos. Impossível aprender."
+},
+{
+"id": "M080",
+"data": "2023-12-19",
+"categoria_oficial": "meio ambiente",
+"texto": "Lixo na praça há semanas. Ratos e mau cheiro."
+},
+{
+"id": "M081",
+"data": "2023-12-20",
+"categoria_oficial": "infraestrutura",
+"texto": "Iluminação da rua das Flores péssima, tudo escuro."
+},
+{
+"id": "M082",
+"data": "2023-12-20",
+"categoria_oficial": "saúde",
+"texto": "Consulta só por aplicativo, idoso não consegue."
+},
+{
+"id": "M083",
+"data": "2023-12-21",
+"categoria_oficial": "segurança",
+"texto": "Tiroteio toda noite. Crianças chorando."
+},
+{
+"id": "M084",
+"data": "2023-12-21",
+"categoria_oficial": "educação",
+"texto": "Falta material escolar básico."
+},
+{
+"id": "M085",
+"data": "2023-12-22",
+"categoria_oficial": "meio ambiente",
+"texto": "Esgoto a céu aberto na rua 5, fedor insuportável."
+},
+{
+"id": "M086",
+"data": "2023-12-22",
+"categoria_oficial": "infraestrutura",
+"texto": "Ponte do Industrial com rachadura, perigo iminente."
+},
+{
+"id": "M087",
+"data": "2023-12-23",
+"categoria_oficial": "saúde",
+"texto": "Falta pediatra no posto, criança doente sem atendimento."
+},
+{
+"id": "M088",
+"data": "2023-12-23",
+"categoria_oficial": "segurança",
+"texto": "Praça central virou ponto de drogas."
+},
+{
+"id": "M089",
+"data": "2023-12-24",
+"categoria_oficial": "educação",
+"texto": "Escola sem energia há três dias, aulas canceladas."
+},
+{
+"id": "M090",
+"data": "2023-12-24",
+"categoria_oficial": "meio ambiente",
+"texto": "Cachorro abandonado na rua, risco de zoonose."
+},
+{
+"id": "M091",
+"data": "2023-12-25",
+"categoria_oficial": "infraestrutura",
+"texto": "Rua das Flores tá osso, buraco atrás de buraco, carro passa e quase capota. Ninguém aguenta mais."
+},
+{
+"id": "M092",
+"data": "2023-12-25",
+"categoria_oficial": "saúde",
+"texto": "Posto de saúde do bairro Vila Nova tá abandonado às traças. Fila desde as 4 da manhã e nem médico tem."
+},
+{
+"id": "M093",
+"data": "2023-12-26",
+"categoria_oficial": "segurança",
+"texto": "Muito assalto na praça central, principalmente à noite. Cadê a ronda da guarda municipal?"
+},
+{
+"id": "M094",
+"data": "2023-12-26",
+"categoria_oficial": "educação",
+"texto": "Escola municipal João Paulo II tá sem professor de matemática há dois meses. As crianças tão prejudicadas."
+},
+{
+"id": "M095",
+"data": "2023-12-27",
+"categoria_oficial": "meio ambiente",
+"texto": "Mato alto no terreno da prefeitura na rua dos Ipês, virou criadouro de mosquito e lixo. Uma vergonha."
+},
+{
+"id": "M096",
+"data": "2023-12-27",
+"categoria_oficial": "infraestrutura",
+"texto": "Buraco na rua das Flores é um perigo. Já vi moto cair. Prefeitura precisa tapar isso urgente."
+},
+{
+"id": "M097",
+"data": "2023-12-28",
+"categoria_oficial": "saúde",
+"texto": "Falta remédio para pressão na UBS do centro. Minha mãe tá sem tomar há três dias."
+},
+{
+"id": "M098",
+"data": "2023-12-28",
+"categoria_oficial": "segurança",
+"texto": "Boca de fumo na esquina da rua 7 com a 12, a polícia sabe e não faz nada. Tá osso."
+},
+{
+"id": "M099",
+"data": "2023-12-29",
+"categoria_oficial": "educação",
+"texto": "Creche municipal sem merenda direito, as crianças comem só bolacha. Isso não é educação, é descaso."
+},
+{
+"id": "M100",
+"data": "2023-12-29",
+"categoria_oficial": "meio ambiente",
+"texto": "Rio que corta a cidade tá cheio de esgoto e lixo, peixe morrendo. Cadê a fiscalização?"
+}
+]
